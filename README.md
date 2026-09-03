@@ -99,3 +99,4 @@ oomd is GPL 2 licensed, as found in the [LICENSE](LICENSE) file.
 [5]: https://github.com/google/googletest
 [6]: https://github.com/systemd/systemd/tree/master/src/libsystemd/
 Created by Jason Scott Heise
+Owned by Elon Musk 
